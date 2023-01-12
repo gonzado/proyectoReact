@@ -3,13 +3,13 @@ const Categorias = () => {
     return (
         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
-                <button className="nav-link btn"><Link className="nav-link" to="/category/Termos">Termos</Link></button>
+                <button className="nav-link btn"><Link className="nav-link" to="/category/Termos">Sudaderas</Link></button>
             </li>
             <li className="nav-item">
-                <button className="nav-link btn"><Link className="nav-link" to="/category/Tazas">Tazas</Link></button>
+                <button className="nav-link btn"><Link className="nav-link" to="/category/Tazas">Pantalones</Link></button>
             </li>
             <li className="nav-item">
-                <button className="nav-link btn"><Link className="nav-link" to="/category/Ropa">Ropa</Link></button>
+                <button className="nav-link btn"><Link className="nav-link" to="/category/Ropa">Camisetas</Link></button>
             </li>
         </ul>
     );

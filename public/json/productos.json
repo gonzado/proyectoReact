@@ -1,110 +1,110 @@
 [
     {
         "idProducto": 1,
-        "idCategoria": "Termos", 
-        "nombreProducto": "Termo Grande",
-        "descripcionProducto": "Termo de acero inoxidable color negro", 
-        "precioProducto": 9500, 
+        "idCategoria": "Sudaderas", 
+        "nombreProducto": "Sudadera gris Under Armor",
+        "descripcionProducto": "Sudadera de hombre Rival Big Logo Under Armour", 
+        "precioProducto": 6500, 
         "stock": 10, 
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/TermoNegro.png?alt=media&token=4b0f8804-9015-4e2b-8132-6525c66a1124"
+        "imgProducto": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202204/08/00110410589179____12__640x640.jpg"
     },
     {
         "idProducto": 2, 
-        "idCategoria": "Termos", 
-        "nombreProducto": "Termo botella", 
-        "descripcionProducto": "Termo botella de acero inoxidable en varios colores",
-        "precioProducto": 3500, 
+        "idCategoria": "Sudaderas", 
+        "nombreProducto": "Sudadera negra Adidas", 
+        "descripcionProducto": "Sudadera BL FT SWT adidas",
+        "precioProducto": 6500, 
         "stock": 20, 
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/termosBotella.png?alt=media&token=e018f0cb-2fd0-4a55-b62d-aba211b36827"
+        "imgProducto": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202011/27/00132417811984____4__640x640.jpg"
     },
     {
         "idProducto": 3, 
-        "idCategoria": "Tazas",
-        "nombreProducto": "Taza Blanca",
-        "descripcionProducto": "Taza de cerámica color blanco",
+        "idCategoria": "Pantalones",
+        "nombreProducto": "Pantalón azul",
+        "descripcionProducto": "Pantalón azul Adidas Core 18",
         "precioProducto": 2500, 
         "stock": 100, 
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/tazaBlanca.png?alt=media&token=b3b07d9a-559b-4bd0-976d-d3027db7afcd"
+        "imgProducto": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/201905/27/00132420402680____1__1200x1200.jpg"
     },
     {
         "idProducto": 4, 
-        "idCategoria": "Tazas",
-        "nombreProducto": "Taza Negra", 
-        "descripcionProducto": "Taza de cerámica color negro",
+        "idCategoria": "Pantalones",
+        "nombreProducto": "Pantalon Nike", 
+        "descripcionProducto": "Pantalon de training Nike",
         "precioProducto": 2500, 
         "stock": 15, 
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/tazaNegra.png?alt=media&token=f78d0834-c3c4-4380-852e-859c5c267797"
+        "imgProducto": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202011/27/00199441606052____2__1200x1200.jpg"
     },
     {
         "idProducto": 5, 
         "idCategoria": "Ropa",
-        "nombreProducto": "Remera hombre", 
-        "descripcionProducto": "Remera manga corta de algodón en varios colores",
+        "nombreProducto": "Camiseta mujer Jack & Jones", 
+        "descripcionProducto": "Camiseta de mujer de manga corta estampado Mickey Mousse",
         "precioProducto": 3000, 
         "stock": 90,
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/remerasHombre.png?alt=media&token=d5a92443-5dbf-4c28-9a4f-d47c0bfb5a76"
+        "imgProducto": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202207/07/00129320322711____8__967x1200.jpg?impolicy=Resize&width=967"
     },
     {
         "idProducto": 6, 
         "idCategoria": "Ropa",
-        "nombreProducto": "Remera mujer", 
-        "descripcionProducto": "Remera manga corta de algodón en varios colores",
+        "nombreProducto": "Camiseta mujer Noisy May", 
+        "descripcionProducto": "Camiseta de mujer oversize y manga corta",
         "precioProducto": 3000, 
         "stock": 90,
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/remeraMujer.png?alt=media&token=e10aa0ea-c52e-49ac-ad4b-6fc68528c030"
+        "imgProducto": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202208/26/00129340014892____6__967x1200.jpg?impolicy=Resize&width=967"
     },
     {
         "idProducto": 7, 
         "idCategoria": "Ropa",
-        "nombreProducto": "Remera manga larga",
-        "descripcionProducto": "Remera manga larga de algodón para hombre en varios colores",
+        "nombreProducto": "Camiseta mujer IKKS",
+        "descripcionProducto": "Camiseta de mujer de algodón de manga corta",
         "precioProducto": 5000, 
         "stock": 15, 
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/remeraLargaHombre.png?alt=media&token=36036e61-d747-49d8-a376-e4ce7a57bd81"
+        "imgProducto": "https://dam.elcorteingles.es/producto/www-3605432017250-00.jpg?impolicy=Fill&width=967&height=1200"
     },
     {
         "idProducto": 8, 
         "idCategoria": "Ropa",
-        "nombreProducto": "Remera manga larga", 
-        "descripcionProducto": "Remera manga larga de algodón para mujer en varios colores",
-        "precioProducto": 4500, 
+        "nombreProducto": "Camiseta mujer Only", 
+        "descripcionProducto": "Camiseta de mujer de manga corta con dibujo frontal",
+        "precioProducto": 2500, 
         "stock": 30, 
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/remeraLargaMujer.png?alt=media&token=0974e7d3-ec5c-4c5a-a390-51c5a92f3bd9"
+        "imgProducto": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202206/17/00129340014348____2__967x1200.jpg?impolicy=Resize&width=967"
     },
     {
         "idProducto": 9, 
         "idCategoria": "Ropa",
-        "nombreProducto": "Buzo Hombre", 
-        "descripcionProducto": "Buzo de algodón en varios colores",
-        "precioProducto": 9000, 
+        "nombreProducto": "Camiseta hombre Jack & Jones", 
+        "descripcionProducto": "Camiseta de hombre de manga corta",
+        "precioProducto": 3000, 
         "stock": 25,
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/buzoHombre.png?alt=media&token=6a62fa98-389c-4431-a461-c248c8b7590b"
+        "imgProducto": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202208/08/00112240215033____7__967x1200.jpg?impolicy=Resize&width=967"
     },
     {
         "idProducto": 10, 
         "idCategoria": "Ropa",
-        "nombreProducto": "Buzo Mujer", 
-        "descripcionProducto": "Buzo de algodón en varios colores",
-        "precioProducto": 8500, 
+        "nombreProducto": "Camiseta hombre Adolfo Dominguez", 
+        "descripcionProducto": "Camiseta de hombre de manga corta con dibujo frontal en blanco",
+        "precioProducto": 3500, 
         "stock": 40,
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/buzoMujer.png?alt=media&token=a2bf750c-7cd5-44a7-976d-fe1779556d67"
+        "imgProducto": "https://dam.elcorteingles.es/producto/www-8445574009547-00.jpg?impolicy=Fill&width=967&height=1200"
     },
     {
         "idProducto": 11, 
         "idCategoria": "Ropa",
-        "nombreProducto": "Body de bebé", 
-        "descripcionProducto": "Bodys para bebés 100% algodón",
-        "precioProducto": 1500,
+        "nombreProducto": "Camiseta hombre Adolfo Dominguez verde", 
+        "descripcionProducto": "Camiseta de hombre de manga corta lisa en verde oscuro",
+        "precioProducto": 3500,
         "stock": 30, 
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/ropa_bebe.png?alt=media&token=6c731f32-bb21-4150-ae81-56b9394e93c9"
+        "imgProducto": "https://dam.elcorteingles.es/producto/www-8445574035485-00.jpg?impolicy=Fill&width=967&height=1200"
     },
     {
         "idProducto": 12, 
         "idCategoria": "Ropa",
-        "nombreProducto": "Remera para chicos", 
-        "descripcionProducto": "Remera manga corta unisex 100% algodón, varios colores",
-        "precioProducto": 1600,
+        "nombreProducto": "Camiseta hombre Paul Smith", 
+        "descripcionProducto": "Camiseta de hombre de manga corta",
+        "precioProducto": 5600,
         "stock": 45, 
-        "imgProducto": "https://firebasestorage.googleapis.com/v0/b/remes-articulos-sublimables.appspot.com/o/remerasChicos.png?alt=media&token=87326c59-e073-4c9b-9a8b-975ab140c74a"
+        "imgProducto": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202208/04/00127355005490____4__967x1200.jpg?impolicy=Resize&width=967"
     }
 ]

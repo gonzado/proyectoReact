@@ -3,16 +3,16 @@ import { getFirestore, addDoc, getDocs, getDoc, collection, doc } from 'firebase
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: process.env.API_KEY,
-    authDomain: "remes-articulos-sublimables.firebaseapp.com",
-    projectId: "remes-articulos-sublimables",
-    storageBucket: "remes-articulos-sublimables.appspot.com",
-    messagingSenderId: "769662419270",
-    appId: "1:769662419270:web:947464c8ab364acf69a547"
+    apiKey: "AIzaSyAWItBUovmaDF2ru6eUoChoy1kfOtJE77A",
+    authDomain: "proyectoreact-73f37.firebaseapp.com",
+    projectId: "proyectoreact-73f37",
+    storageBucket: "proyectoreact-73f37.appspot.com",
+    messagingSenderId: "1025466101682",
+    appId: "1:1025466101682:web:d77a9a3632d6d47f1fbeab"
 };
 
 // Initialize Firebase
-const app = initializeApp(firebaseConfig);
+initializeApp(firebaseConfig);
 
 const db = getFirestore();
 
