@@ -3,6 +3,7 @@ import BtnDarkMode from "./BtnDarkMode/BtnDarkMode";
 import Categorias from "./Categorias/Categorias";
 import CartWidget from "../CartWidget/CartWidget";
 import { useDarkModeContext } from '../../context/DarkModeContext';
+// ok
 
 const NavBar = () => {
     const {darkMode} = useDarkModeContext()
