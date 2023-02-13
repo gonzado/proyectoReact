@@ -45,4 +45,5 @@ const getProducto = async (id) =>{
     return item
 }
 
+
 export { crearBDD, getProductos, getProducto }
